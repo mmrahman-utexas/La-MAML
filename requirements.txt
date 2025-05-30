@@ -1,9 +1,16 @@
+Pillow==6.2.2
+tensorboardx==1.6
+torch==1.2.0
+torchfile==0.1.0
+torchvision==0.4.0
+scipy
 argparse
 datetime
 matplotlib
 numpy
 pillow
 quadprog
-torchvision
 urllib3
 uuid
+ipdb
+tqdm
